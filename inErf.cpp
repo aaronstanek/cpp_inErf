@@ -1,7 +1,5 @@
 #include "inErf.h"
 
-#include <iostream>
-
 using namespace std;
 
 double inErf_initial_guess(double x) {
